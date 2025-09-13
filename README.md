@@ -1,2 +1,2 @@
-# talita-portfolio
-Buiding my portfolio
+# talitachristine-portfolio
+Talita Christine's portfolio
